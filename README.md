@@ -1,2 +1,0 @@
-# myfirstproject
-new repository1
